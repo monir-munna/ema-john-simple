@@ -15,6 +15,7 @@
 }
 
 body {
+  background-color: #ffffff;
   margin: 0;
   display: flex;
   min-width: 320px;
